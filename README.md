@@ -2,6 +2,8 @@
 
 ### 🛠Tech Stack
 <img src="https://img.shields.io/badge/HTML-3178C6?style=flat&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/javaScript-3178C6?style=flat&logo=javascript&logoColor=white"/>
+
 
 <!--
 **KIMSEUNGYOON/KIMSEUNGYOON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
