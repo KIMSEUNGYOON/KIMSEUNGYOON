@@ -1,8 +1,8 @@
-### 👋Hi there 
+# 👋Hi there 
 안녕하십니까 신입 프론트엔드 개발자를 꿈꾸고 있는 김승윤이라고 합니
 
-### 🛠Stacks
-# Environment
+# 🛠Stacks
+## Environment
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 
 ## Config
